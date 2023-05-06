@@ -1,0 +1,27 @@
+.contactTitle{
+    margin-top: 30px;
+    color: #4f2169; 
+    font-family: "Kalam", cursive; 
+    font-size: 50px;  
+    line-height: 48px; 
+    text-align: center;
+}
+
+.formContainer {
+    border: 10px solid #4f2169;
+    background-color: beige;
+}
+
+.inputs {
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+}
+
+.form {
+    background-color: beige;
+}
+
+.submitBtn {
+    margin-bottom: 20px;
+}

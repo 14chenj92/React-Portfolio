@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.projectTitle{
+    margin-top: 30px;
+    color: #4f2169; 
+    font-family: "Kalam", cursive; 
+    font-size: 50px;  
+    line-height: 48px; 
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1rem 2rem;
+    background: #f8f3e8;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.card > h1 {
+    margin-top: 1rem;
+    font-family: "Kalam";
+    font-weight: normal;
+    font-size: 2rem;
+    color: #2f2f53;
+    text-align: center;
+}
+
+.imgicon {
+    width: 180px;
+    height: 180px;
+  }
+
+.imgs {
+    display: flex;
+    justify-content: center;
+}
