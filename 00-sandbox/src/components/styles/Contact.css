@@ -1,15 +1,16 @@
 .contactTitle{
     margin-top: 30px;
-    color: #4f2169; 
+    color: #0c0735; 
     font-family: "Kalam", cursive; 
-    font-size: 50px;  
+    font-size: 60px;  
     line-height: 48px; 
     text-align: center;
 }
 
 .formContainer {
-    border: 10px solid #4f2169;
-    background-color: beige;
+    margin-top: 50px;
+    border: 10px solid rgb(70, 70, 73);
+    background-color: #a0a0aa;
 }
 
 .inputs {
@@ -19,9 +20,20 @@
 }
 
 .form {
-    background-color: beige;
+    background-color: #a0a0aa;
+    margin-bottom: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
-.submitBtn {
+.btn {
     margin-bottom: 20px;
+}
+
+.inputTitle {
+    margin-top: 20px;
+    font-family: "Kalam", cursive;
+    color: black; 
+    font-size: 20px; 
+    line-height: 32px; 
 }

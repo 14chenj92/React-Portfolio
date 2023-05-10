@@ -1,17 +1,16 @@
 import React from 'react';
-import Resume from '../../images/dummy.pdf';
+import Resume from '../../images/Resume Draft.pdf';
 import '../styles/Resume.css';
 
 export default function Home() {
   return (
     <div>
-      <h1 class="resumeTitle">Resume</h1>
-      <h2 class="downloadText">
+    <h1 class="resumeTitle fasthidden">Resume</h1>
+      <h2 class="downloadText hidden">
       Download my <a target="blank" href={Resume}>Resume</a>
       </h2>
       <br></br>
-      <p class="techlist">Technologies Used:</p>
-      <h2 class="float"><span>Front-End Proficiencies:</span>
+      <h2 class="float resumecontainer hidden"><span>Front-End Proficiencies:</span>
       <li class="tech1">HTML</li>
       <li class="tech1">CSS</li>
       <li class="tech1">JavaScript</li>
@@ -20,7 +19,7 @@ export default function Home() {
       <li class="tech1">Bootstrap</li>
       <li class="tech1">Bulma</li>
       </h2>
-      <h2 class="float"><span>Back-End Proficiencies:</span>
+      <h2 class="float resumecontainer hidden"><span>Back-End Proficiencies:</span>
       <li class="tech1">APIs</li>
       <li class="tech1">Node</li>      
       <li class="tech1">Express</li>

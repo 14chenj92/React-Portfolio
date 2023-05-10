@@ -61,11 +61,11 @@ function Form() {
 
   return (
     <div>
-      <h1 class="contactTitle">Contact Me</h1>
-      <div class="container formContainer">
+      <h1 class="contactTitle fasthidden">Contact Me</h1>
+      <div class="container formContainer hidden">
       <form className="form">
-        <p>Name:</p>
-        <input class="inputs"
+        <p class="inputTitle">Name:</p>
+        <input class="inputs form-control"
           value={name}
           name="name"
           onChange={handleInputChange}
@@ -73,8 +73,8 @@ function Form() {
           placeholder="Name"
         />
         <br></br>
-        <p>Email Address:</p>
-        <input class="inputs"
+        <p class="inputTitle">Email Address:</p>
+        <input class="inputs form-control"
           value={email}
           name="email"
           onChange={handleInputChange}
@@ -82,8 +82,8 @@ function Form() {
           placeholder="Email Address"
         />
         <br></br>
-        <p>Message:</p>
-        <textarea class="inputs"
+        <p class="inputTitle">Message:</p>
+        <textarea class="inputs form-control"
           value={message}
           name="message"
           onChange={handleInputChange}
@@ -91,13 +91,13 @@ function Form() {
           placeholder="Message"
         />
         <br></br>
-        <button type="button" class="submitBtn" onClick={handleFormSubmit}>Submit</button>
-      </form>
+        <button type="button" class="btn btn-dark"onClick={handleFormSubmit}>Submit</button>
       {errorMessage && (
         <div>
-          <p className="error-text">{errorMessage}</p>
+          <p className="error-text inputTitle">{errorMessage}</p>
         </div>
       )}
+      </form>
     </div>
     </div>
   );
