@@ -61,7 +61,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Usage
 Application page: 
 
-![ScreenShot](https://github.com/14chenj92/React-Portfolio/main/src/images/aboutme.png)
+![ScreenShot](https://github.com/14chenj92/React-Portfolio/blob/main/src/images/aboutme.png)
   
 
 ## License
