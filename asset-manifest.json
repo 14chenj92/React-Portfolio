@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.fb53f1fc.css",
+    "main.js": "/React-Portfolio/static/js/main.c8883a37.js",
+    "static/media/avatar.jpg": "/React-Portfolio/static/media/avatar.35bf4fa3a9993bc899c6.jpg",
+    "static/media/Resume Draft.pdf": "/React-Portfolio/static/media/Resume Draft.e3ace6e373eb413fd140.pdf",
+    "static/media/whitewall.webp": "/React-Portfolio/static/media/whitewall.360233748df32efb0b1d.webp",
+    "static/media/workday.png": "/React-Portfolio/static/media/workday.689bd1b8fafb361961bf.png",
+    "static/media/laptop.jpg": "/React-Portfolio/static/media/laptop.16f1500c39b0a4e7b9d0.jpg",
+    "static/media/weather.jpg": "/React-Portfolio/static/media/weather.69e1c2406e1407383f6a.jpg",
+    "static/media/comp.jpg": "/React-Portfolio/static/media/comp.bd571140f9740df0e43d.jpg",
+    "static/media/github.svg": "/React-Portfolio/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "static/media/stack.svg": "/React-Portfolio/static/media/stack.b4c91dac418e900743327d04bbab76f4.svg",
+    "static/media/linkedin.svg": "/React-Portfolio/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "main.fb53f1fc.css.map": "/React-Portfolio/static/css/main.fb53f1fc.css.map",
+    "main.c8883a37.js.map": "/React-Portfolio/static/js/main.c8883a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb53f1fc.css",
+    "static/js/main.c8883a37.js"
+  ]
+}
