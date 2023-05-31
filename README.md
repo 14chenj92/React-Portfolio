@@ -59,7 +59,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 * go to localhost:3000
 
 ## Usage
-Application page: 
+Application page: https://14chenj92.github.io/React-Portfolio/
 
 ![ScreenShot](https://github.com/14chenj92/React-Portfolio/blob/main/src/images/aboutme.png)
   
