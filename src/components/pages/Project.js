@@ -4,6 +4,7 @@ import Animal from '../../images/animal.png'
 import Workday from '../../images/workday.png'
 import Weather from '../../images/weather.jpg'
 import Laptop from '../../images/laptop.jpg'
+import Planet from '../../images/planet.jpg'
 import Comp from '../../images/comp.jpg'
 import '../styles/Project.css';
 
@@ -64,13 +65,13 @@ export default function Project() {
                 </div>
             </p>
             <p class="card col-md-3">
-                <h1>Tech Blog</h1>
+                <h1>StarGazers</h1>
                 <div class="imgs">
-                <img class="image-main imgicon" src= {Laptop}/>
+                <img class="image-main imgicon" src= {Planet}/>
                 </div>
                 <div class="projectbtns d-flex justify-content-evenly">
-                <a type="button" class="btnstyle col-md-5" target="blank" href="https://polar-temple-53244.herokuapp.com/login">Application</a> 
-                <a type="button" class="btnstyle col-md-5" target="blank" href="https://github.com/14chenj92/Tech-Blog">Github</a>  
+                <a type="button" class="btnstyle col-md-5" target="blank" href="https://ancient-ravine-85592.herokuapp.com/">Application</a> 
+                <a type="button" class="btnstyle col-md-5" target="blank" href="https://github.com/maxr-e/star-grazers">Github</a>  
                 </div>
             </p>
     </div>
