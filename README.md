@@ -10,7 +10,9 @@
   * [Tests](#test)
   * [Questions](#questions)
 
-  ## Description
+## Description
+This is my sample portfolio made using React front-end.
+
 User Story
 
 ```md
